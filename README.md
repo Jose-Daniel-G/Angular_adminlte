@@ -1,5 +1,5 @@
 # AdminLTE + Angular Integration
-
+## actual version on 20.3.1
 Este proyecto integra **AdminLTE** con **Angular** para crear un sistema de administración moderno y dinámico.
 
 ## 📋 Descripción
@@ -28,5 +28,7 @@ ng add angular-cli-ghpages
 ng build --configuration production --base-href=/Angular_adminlte/
 ng deploy --base-href=https://jose-daniel-g.github.io/Angular_adminlte/
 ```
+https://jose-daniel-g.github.io/angular-link-votes-app/
+![image](images/image.png)
 
 
