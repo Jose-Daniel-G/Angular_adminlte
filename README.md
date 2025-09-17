@@ -20,3 +20,13 @@ Asegúrate de tener instalados los siguientes programas antes de empezar:
 - **Node.js**: >= v14
 - **Angular CLI**: >= v15
 - **Git*#
+-----------------------------
+###### Github Pages
+- elimina la carpeta dist
+```
+ng add angular-cli-ghpages 
+ng build --configuration production --base-href=/Angular_adminlte/
+ng deploy --base-href=https://jose-daniel-g.github.io/Angular_adminlte/
+```
+
+
