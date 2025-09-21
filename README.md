@@ -28,7 +28,7 @@ ng add angular-cli-ghpages
 ng build --configuration production --base-href=/Angular_adminlte/
 ng deploy --base-href=https://jose-daniel-g.github.io/Angular_adminlte/
 ```
-https://jose-daniel-g.github.io/angular-link-votes-app/
+https://jose-daniel-g.github.io/Angular_adminlte/
 ![image](images/image.png)
 
 
